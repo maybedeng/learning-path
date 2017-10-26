@@ -17,11 +17,13 @@ Table of Contents
 - [Calculus](#calculus)
 - [Probability & Statistics](#probability-and-statistics)
 - [Linear Algebra](#linear-algebra)
+- [Data Science](#data-science)
 - [Optimization Theory](#optimization-theory)
 - [Numerical Analysis](#numerical-analysis)
-- [Signal Processing](signal-processing)
+- [Signal Processing](#signal-processing)
 - [Information Theory](#information-theory)
 - [Cybernetic Theory](#cybernetic-theory)
+- [MOOC](#mooc)
 
 ### Legend
 
@@ -86,3 +88,10 @@ Courses
 	- [Lecture Videos](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBVK2QzAV-R7NMA1ZkaiR2y)
 	- [Lecture Notes](https://sites.google.com/site/cs186fall2013/section-notes)
 	- [Projects](https://sites.google.com/site/cs186fall2013/homeworks)
+--------
+
+### mooc
+
+- [Stanford Lagunita](https://lagunita.stanford.edu/courses)
+- [Stanford Online](http://online.stanford.edu/courses)
+
