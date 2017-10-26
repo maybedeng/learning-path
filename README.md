@@ -43,6 +43,14 @@ Courses
 	- [Additional Resources](http://cs61a.org/articles/resources.html)
 	- [Practice Problems](http://cs61a.org/problems/)
 	- [Extra Lectures](http://cs61a.org/extra.html)
+
+### Algorithms
+- [CS 97SI](http://web.stanford.edu/class/cs97si/) **Introduction to Competitive Programming** *Stanford University*  <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+	- Fantastic repository of theory and practice problems across various topics for students who are interested to participate in ACM-ICPC.
+	- [Lectures and Assignments](http://stanford.edu/~liszt90/acm/notebook.html)
+- [CS 261](http://theory.stanford.edu/~tim/w16/w16.html) **A Second Course in Algorithms** *Stanford University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+	- Algorithms for network optimization: max-flow, min-cost flow, matching, assignment, and min-cut problems. Introduction to linear programming. Use of LP duality for design and analysis of algorithms. Approximation algorithms for NP-complete problems such as Steiner Trees, Traveling Salesman, and scheduling problems. Randomized algorithms. Introduction to online algorithms.
+	- [Lecture Notes, Videos & Assignments](http://theory.stanford.edu/~tim/w16/w16.html) ([Youtube](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJh2yDxlJJjnKswWdoO8gAc))
 	
 ### Systems
 
