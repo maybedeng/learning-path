@@ -18,6 +18,7 @@ Table of Contents
 - [Probability & Statistics](#probability-and-statistics)
 - [Linear Algebra](#linear-algebra)
 - [Optimization Theory](#optimization-theory)
+- [Numerical Analysis](#numerical-analysis)
 - [Signal Processing](signal-processing)
 - [Information Theory](#information-theory)
 - [Cybernetic Theory](#cybernetic-theory)
@@ -32,3 +33,11 @@ Table of Contents
 
 Courses
 -------
+
+
+### Operating System
+
+- [CS 140](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/lectures.php) **Operating Systems** *Stanford University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+	- This class introduces the basic facilities provided in modern operating systems. The course divides into three major sections. The first part of the course discusses concurrency. The second part of the course addresses the problem of memory management. The third major part of the course concerns file systems.
+	- [Lecture Notes](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/lectures.php)
+	- [Assignments](http://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/projects.php)
