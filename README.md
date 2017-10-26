@@ -95,11 +95,22 @@ Courses
 - [CS 101](http://online.stanford.edu/course/computer-science-101-self-paced) **Computer Science 101** *Stanford University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- CS101 teaches the essential ideas of Computer Science for a zero-prior-experience audience. Participants play and experiment with short bits of "computer code" to bring to life to the power and limitations of computers.
 	- Lectures videos will available for free after registration.
--------
+- [CS 109](http://otfried.org/courses/cs109/index.html) **Programming Practice Using Scala** *KAIST* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+	- This course introduces basic concepts of programming and computer science, such as dynamic and static typing, dynamic memory allocation, objects and methods, binary representation of numbers, using an editor and compiler from the command line, running programs with arguments from the command line, using libraries, and the use of basic data structures such as arrays, lists, sets, and maps. We will use Scala for this course.
+	- [Lectures] (http://otfried.org/courses/cs109/index.html)
+	- [Assignments] (http://otfried.org/courses/cs109/index.html)
+-------- [CS 109](http://otfried.org/courses/cs109/index.html) **Programming Practice Using Scala** *KAIST* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+	- This course introduces basic concepts of programming and computer science, such as dynamic and static typing, dynamic memory allocation, objects and methods, binary representation of numbers, using an editor and compiler from the command line, running programs with arguments from the command line, using libraries, and the use of basic data structures such as arrays, lists, sets, and maps. We will use Scala for this course.
+	- [Lectures] (http://otfried.org/courses/cs109/index.html)
+	- [Assignments] (http://otfried.org/courses/cs109/index.html)
 
 ### Mooc
 
 - [Stanford Lagunita](https://lagunita.stanford.edu/courses)
 - [Stanford Online](http://online.stanford.edu/courses)
-- [Stanford EE)(https://see.stanford.edu/Course/)
+- [Stanford EE](https://see.stanford.edu/Course/)
 - [Coursera](https://www.coursera.org/)
+- [Edx](https://courses.edx.org/)
+- [XueTangX](https://www.xuetangx.com/)
+- [Icourse](http://www.icourse163.org/)
+- [Open](https://open.163.com/)
