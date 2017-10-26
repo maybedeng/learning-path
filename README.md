@@ -90,8 +90,16 @@ Courses
 	- [Projects](https://sites.google.com/site/cs186fall2013/homeworks)
 --------
 
-### mooc
+### Data Science
+
+- [CS 101](http://online.stanford.edu/course/computer-science-101-self-paced) **Computer Science 101** *Stanford University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+	- CS101 teaches the essential ideas of Computer Science for a zero-prior-experience audience. Participants play and experiment with short bits of "computer code" to bring to life to the power and limitations of computers.
+	- Lectures videos will available for free after registration.
+-------
+
+### Mooc
 
 - [Stanford Lagunita](https://lagunita.stanford.edu/courses)
 - [Stanford Online](http://online.stanford.edu/courses)
-
+- [Stanford EE)(https://see.stanford.edu/Course/)
+- [Coursera](https://www.coursera.org/)
